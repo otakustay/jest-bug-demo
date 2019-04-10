@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`hello 1`] = `
+"
+import v from '@/c/void-package';
+v();
+"
+`;
